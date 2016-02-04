@@ -2,8 +2,9 @@ using namespace std;
 
 namespace testing {
 
-	int main(){
+	int main() {
 
-		return 0;
+		int err = 2;
+		return err*0;
 	}
 }
